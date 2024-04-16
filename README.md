@@ -22,21 +22,21 @@
 
 1. MacOS在进入网站后点击<u>下载</u>中的macOS。
 
-   <img src="/Users/baiguang/Desktop/截屏2024-04-16 19.48.54.png" alt="截屏2024-04-16 19.48.54" style="zoom:30%;" />
+   ![install01](/Users/baiguang/Desktop/Python手把手教学/Image/install01.png)
 
 2. 选择一个需要的版本，根据自己电脑的芯片版本选择（M系列和英特尔系列）。
 
    > 本仓库中的教程均使用Python3.9.6这一个版本。
 
-   ![截屏2024-04-16 19.46.44](/Users/baiguang/Library/Application Support/typora-user-images/截屏2024-04-16 19.46.44.png )
+   ![install02](/Users/baiguang/Desktop/Python手把手教学/Image/install02.png)
 
 3. 点击下载链接，会下载到一个.pkg文件。
 
-   ![截屏2024-04-16 19.57.59](/Users/baiguang/Library/Application Support/typora-user-images/截屏2024-04-16 19.57.59.png)
+   ![install03](/Users/baiguang/Desktop/Python手把手教学/Image/install03.png)
 
 4. 双击打开这一个文件跟着安装器一步一步继续便安装完毕。
 
-   ![截屏2024-04-16 19.58.45](/Users/baiguang/Library/Application Support/typora-user-images/截屏2024-04-16 19.58.45.png)
+   ![install04](/Users/baiguang/Desktop/Python手把手教学/Image/install04.png)
 
 5. 安装后在电脑的命令行（名叫**终端**这一个软件）输入以下命令回车，若命令行出现Python 3.9.6，则说明安装成功。
 
