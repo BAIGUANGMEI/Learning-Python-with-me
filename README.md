@@ -166,5 +166,9 @@ python3
 
 #### 4.8 Python的循环语句
 
+### 优化算法
 
+#### 模拟退火算法（Simulated  Annealing，SA）
+
+通过Python实现模拟退火算法求解一些函数。
 
